@@ -1,10 +1,10 @@
 import React from 'react';
 import Navigation from './Components/Navigation';
-import Hero from './components/Hero';
-import Profile from './components/Profile';
-import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
-import Others from './components/Others';
+import Hero from './Components/Hero';
+import Profile from './Components/Profile';
+import Portfolio from './Components/Portfolio';
+import Contact from './Components/Contact';
+import Others from './Components/Others';
 import { PortfolioItem, ProfileData } from './types';
 
 // Mock Data
