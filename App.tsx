@@ -11,7 +11,8 @@ import { PortfolioItem, ProfileData } from './types';
 const profileData: ProfileData = {
   name: "Takuro Yoshio",
   occupation: "Student Engineer",
-  environment: "Using Cursor / Modern Stack",
+  environment: "Using Cursor ",
+  Skill:"HTML/Javascript/AI coding/"
   introduction: "現在大学二年生で、個人でHP・WEB系のフロント制作を主に活動しています。お客様のご要望、ご予算に応じて柔軟に対応いたします。"
 };
 
