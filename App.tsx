@@ -1,5 +1,5 @@
 import React from 'react';
-import Navigation from './components/Navigation';
+import Navigation from './Components/Navigation';
 import Hero from './components/Hero';
 import Profile from './components/Profile';
 import Portfolio from './components/Portfolio';
