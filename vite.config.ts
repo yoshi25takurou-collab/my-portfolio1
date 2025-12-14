@@ -9,6 +9,10 @@ export default defineConfig(({ mode }) => {
         port: 3000,
         host: '0.0.0.0',
       },
+    export default defineConfig({
+  base: "/my-portfolio-/",  // ← この行を追加！
+  plugins: [react()],
+})
       plugins: [react()],
       define: {
         'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
