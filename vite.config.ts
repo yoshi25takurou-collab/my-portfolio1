@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: "/my-portfolio-/", // ← これが今回追加した大切な設定です
+    base: "/my-portfolio1/", // ← これが今回追加した大切な設定です
     server: {
       port: 3000,
       host: '0.0.0.0',
